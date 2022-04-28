@@ -1,0 +1,31 @@
+/* body,
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer {
+  margin-top: auto;
+} */
+
+body,
+#wrapper {
+  display: flex;
+  /* flex-direction: column; */
+  min-height: "15vh";
+  /* padding: 10vh; */
+  margin-left: 7vh;
+  /* align-items: center; */
+}
+#wrapper2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 10vh;
+  margin-left: 42vh;
+}
+
+header {
+  margin-bottom: 60px;
+}
